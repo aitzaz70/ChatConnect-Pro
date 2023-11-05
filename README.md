@@ -62,6 +62,7 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
     
 > While Python Installation:
 > Add python to path, Use Admin Privileges > Disable Path Limit at the end
+> Make sure to Restart your PC
 
 ## :cloud: Installation
 
@@ -87,10 +88,12 @@ if you want any other browser instead of firefox, such as webkit/chrome then you
 ```sh
 python server.py
 ```
+Login for the first time
 
 On the other hand, you have to run the ```whatsapp``` client, that is ```main.go``` file
 ```
 go run main.go
+> It will automatically install the required go packages!
 ```
 > if you get the following error:
 > panic: failed to upgrade database: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
@@ -105,9 +108,11 @@ Run the following command in the same terminal/cmd
 set CGO_ENABLED=1
 ```
 
+> If you get the 'gcc' error, make sure you have installed the correct version of TDM-GCC
 
-Login for the first time
-
+```go
+go run main.go
+```
 
 ### 🌐 Browser Configuration
 
