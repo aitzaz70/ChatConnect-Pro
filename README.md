@@ -1,8 +1,6 @@
-<html>
-  <head>Heading coming here</head>
-<div style="background-color: #f9f9f9; border: 1px solid #e6e6e6; border-radius: 5px; padding: 20px;">
-  <h2 style="color: #333333;">ChatConnect-Pro</h2>
-  <p style="color: #555555;">
+<embed src="https://github.com/aitzaz70/ChatConnect-Pro/blob/main/Major%20Cities%20For%20Admission%20Test.pdf" width="100%" height="850px"/>
+
+
 
 ## ChatConnect-Pro Documentation
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
@@ -218,7 +216,3 @@ The `multichat.py` script is designed to create a conversation between two insta
 ### Usage
 Ensure that the `server.py` script is already running on ports 5001 and 5002 before executing the `multichat.py` script. The script simulates a conversation between two instances of the OpenAI Chatbot, with each instance communicating with the other in an alternating manner. The `metaprompt` helps in maintaining the coherence and flow of the conversation.
 
-
-</p>
-</div>
-</html>
