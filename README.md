@@ -26,8 +26,16 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 ## :cloud: Installation
 
 ```sh
-# Using npm
-npm install --save github-api-emojis
+// Fireup your terminal/cmd📟 
+# Using Git :octocat:
+git clone https://github.com/codingwithzaz/ChatConnect-Pro
+cd ChatConnect-Pro
+pip install -r requirements.txt
+playwright install firefox // Regards server.py
+//if you want any other browser instead of firefox, such as webkit/chrome then you have to change the browser in server.py file also
+python server.py
+// Login for the first time
+
 
 # Using yarn
 yarn add github-api-emojis
