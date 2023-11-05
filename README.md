@@ -32,6 +32,8 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 | Go       | Programming language | 1.21.3  | [Download](https://golang.org/dl/) |
 | Tdm-gcc  | MinGW-w64 based GCC for Windows | 10.3.0.2 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
 
+> While Python Installation
+> Add python to path, Use Admin Privileges > Disable Path Limit at the end
 
 ## :cloud: Installation
 
