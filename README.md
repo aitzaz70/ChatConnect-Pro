@@ -88,6 +88,24 @@ if you want any other browser instead of firefox, such as webkit/chrome then you
 python server.py
 ```
 
+On the other hand, you have to run the ```whatsapp``` client, that is ```main.go``` file
+```
+go run main.go
+```
+> if you get the following error:
+> panic: failed to upgrade database: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
+
+> goroutine 1 [running]:
+> main.main()
+>        C:/Users/vmwar/ChatConnect-Pro/main.go:74 +0x46e
+> exit status 2
+Run the following command in the same terminal/cmd
+```
+set CGO_ENABLED=1
+
+```
+
+
 Login for the first time
 
 
