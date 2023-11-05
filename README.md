@@ -1,3 +1,7 @@
+<div style="background-color: #f9f9f9; border: 1px solid #e6e6e6; border-radius: 5px; padding: 20px;">
+  <h2 style="color: #333333;">ChatConnect-Pro</h2>
+  <p style="color: #555555;">
+
 ## ChatConnect-Pro Documentation
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
@@ -32,7 +36,7 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 | Go       | Programming language | 1.21.3  | [Download](https://golang.org/dl/) |
 | Tdm-gcc  | MinGW-w64 based GCC for Windows | 10.3.0.2 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
 
-> While Python Installation
+> While Python Installation:
 > Add python to path, Use Admin Privileges > Disable Path Limit at the end
 
 ## :cloud: Installation
@@ -211,3 +215,7 @@ The `multichat.py` script is designed to create a conversation between two insta
 
 ### Usage
 Ensure that the `server.py` script is already running on ports 5001 and 5002 before executing the `multichat.py` script. The script simulates a conversation between two instances of the OpenAI Chatbot, with each instance communicating with the other in an alternating manner. The `metaprompt` helps in maintaining the coherence and flow of the conversation.
+
+
+</p>
+</div>
