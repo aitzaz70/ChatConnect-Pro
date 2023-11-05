@@ -23,6 +23,16 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 - **Whatsmeow:** Install the Whatsmeow library, which acts as a bridge for communication with the WhatsApp platform.
 - **SQLite:** Configure the SQLite database connector to support data storage and management within the project.
 
+## :cloud: Pre-Installation
+## :accessibility: Requirements: Software
+```py
+Git
+Python
+Go
+Tdm-gcc
+```
+
+
 ## :cloud: Installation
 
 # Fireup your terminal/cmd📟
@@ -51,7 +61,7 @@ python server.py
 Login for the first time
 
 
-### Browser Configuration
+### 🌐 Browser Configuration
 
 To configure the browser settings for the ChatConnect-Pro project, follow these instructions:
 
@@ -65,7 +75,7 @@ BROWSER = PLAY.firefox.launch_persistent_context(user_data_dir=PROFILE_DIR, head
 
 - Additionally, you can change the headless mode by modifying the `headless=True` parameter. Setting it to `True` enables headless mode, which runs the browser without a user interface, making it ideal for automated tasks. Setting it to `False` activates the browser's graphical interface, allowing real-time visualization during script execution.
 
-### Headless Mode
+### 💻 Headless Mode
 
 The headless mode enables the browser to operate without a graphical user interface, allowing it to run in the background. This mode is particularly useful for automated tasks and server-side operations where a visible browser window is not required. It significantly reduces resource consumption and enhances the efficiency of the automation process.
 
@@ -92,7 +102,7 @@ In this line, time.sleep(0.2) introduces a smaller delay of 0.2 seconds. This sh
 The strategic use of time.sleep at these specific lines demonstrates the function's efficient and optimized approach to wait for and retrieve the latest non-empty message from the ChatGPT interface, enhancing the overall performance and resource management of the ChatConnect-Pro project.
 
 
-### Usage
+### ⚙️ Usage
 
 To effectively utilize the ChatConnect-Pro integration project, follow these steps:
 
@@ -111,7 +121,7 @@ To effectively utilize the ChatConnect-Pro integration project, follow these ste
 5. **Monitoring and Interaction:**
    - Monitor the ongoing communication and interaction between the WhatsApp platform and the OpenAI Chatbot through the integrated communication channel. Leverage the powerful capabilities of ChatConnect-Pro to streamline communication processes and enhance the overall user experience for both WhatsApp users and the OpenAI Chatbot.
 
-### Introduction
+### Server.py Introduction
 The `server.py` file is a Python script that facilitates communication between the OpenAI Chatbot and the WhatsApp platform. It establishes a connection between these two platforms, allowing seamless integration for the exchange of messages. The script utilizes the Flask web framework for creating the server, and the Playwright library for web automation tasks.
 
 ### Dependencies
