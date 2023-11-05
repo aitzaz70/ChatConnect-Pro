@@ -1,4 +1,4 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=aitzaz70)
+![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
 
 ## ChatConnect-Pro Documentation
