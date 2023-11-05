@@ -94,7 +94,8 @@ On the other hand, you have to run the ```whatsapp``` client, that is ```main.go
 ```
 go run main.go
 ```
-> It will automatically install the required go packages!  
+> It will automatically install the required go packages
+
 > if you get the following error:
 > panic: failed to upgrade database: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
 
