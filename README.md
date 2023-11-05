@@ -2,7 +2,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
 
-💲Donation: Bitcoin for Binance🪙
+💲Donation: Bitcoin (Binance🪙)
 ```
 195XfKjaHkBedXptLk2iRAL3Qip2YHqzHZ
 ```
