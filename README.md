@@ -33,6 +33,13 @@ Go
 Tdm-gcc
 ```
 
+| Language | Download Link |
+|----------|---------------|
+| Git      | [Download](link_to_git_download) |
+| Python   | [Download](link_to_python_download) |
+| Go       | [Download](link_to_go_download) |
+| Tdm-gcc  | [Download](link_to_tdm-gcc_download) |
+
 
 ## :cloud: Installation
 
