@@ -91,7 +91,7 @@ python server.py
 Login for the first time
 
 > At the same time, you have to run the ```whatsapp``` client also, that is ```main.go``` file.
-For this Fireup amother terminal/cmd and goto the same folder "ChatConnect-Pro" and run the following command
+For this Fireup another terminal/cmd and goto the same folder "ChatConnect-Pro" and run the following command
 ```
 go run main.go
 ```
