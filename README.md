@@ -1,48 +1,3 @@
-
-
-<details>
-<summary><strong>Git 🌟</strong></summary>
-
-**Description:** Version control system
-
-**Latest Version:** 2.42.1
-
-[Download Git](https://www.git-scm.com/downloads)
-</details>
-
-<details>
-<summary><strong>Python 🐍</strong></summary>
-
-**Description:** Programming language
-
-**Latest Version:** 3.11.2
-
-[Download Python](https://www.python.org/downloads)
-</details>
-
-<details>
-<summary><strong>Go 🚀</strong></summary>
-
-**Description:** Programming language
-
-**Latest Version:** 1.21.3
-
-[Download Go](https://golang.org/dl/)
-</details>
-
-<details>
-<summary><strong>Tdm-gcc 🛠️</strong></summary>
-
-**Description:** MinGW-w64 based GCC for Windows
-
-**Latest Version:** 10.3.0.2
-
-[Download Tdm-gcc](https://jmeubank.github.io/tdm-gcc/download/)
-</details>
-
-
-
-
 ## ChatConnect-Pro Documentation
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
@@ -76,36 +31,6 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 | Python   | Programming language | 3.11.2         | [Download](https://www.python.org/downloads) |
 | Go       | Programming language | 1.21.3  | [Download](https://golang.org/dl/) |
 | Tdm-gcc  | MinGW-w64 based GCC for Windows | 10.3.0.2 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
-
-- **Git**
-  - *Description*: Version control system
-  - *Version*: 2.42.1
-  - *Download Link*: [Download Git](https://www.git-scm.com/downloads)
-
-- **Python**
-  - *Description*: Programming language
-  - *Version*: 3.11.2
-  - *Download Link*: [Download Python](https://www.python.org/downloads)
-
-- **Go**
-  - *Description*: Programming language
-  - *Version*: 1.21.3
-  - *Download Link*: [Download Go](https://golang.org/dl/)
-
-- **Tdm-gcc**
-  - *Description*: MinGW-w64 based GCC for Windows
-  - *Version*: 10.3.0.2
-  - *Download Link*: [Download Tdm-gcc](https://jmeubank.github.io/tdm-gcc/download/)
-
-
-
-```py
-Git
-Python
-Go
-Tdm-gcc
-```
-
 
 
 ## :cloud: Installation
