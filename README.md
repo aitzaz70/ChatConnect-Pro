@@ -25,6 +25,13 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 
 ## :cloud: Pre-Installation
 :accessibility: Required Softwares
+| Language | Description              | Version | Download Link |
+|----------|--------------------------|----------------|---------------|
+| Git      | Version control system   | 2.33.1         | [Download](https://www.git-scm.com/downloads) |
+| Python   | General-purpose language | 3.10.0         | [Download](https://www.python.org/downloads) |
+| Go       | Open-source programming language | 1.17.2  | [Download](https://golang.org/dl/) |
+| Tdm-gcc  | GCC for Windows | 10.3.0 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
+
 
 ```py
 Git
@@ -33,12 +40,6 @@ Go
 Tdm-gcc
 ```
 
-| Language | Download Link |
-|----------|---------------|
-| Git      | [Download](link_to_git_download) |
-| Python   | [Download](link_to_python_download) |
-| Go       | [Download](link_to_go_download) |
-| Tdm-gcc  | [Download](link_to_tdm-gcc_download) |
 
 
 ## :cloud: Installation
