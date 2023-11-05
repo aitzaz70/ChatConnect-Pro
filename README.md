@@ -1,6 +1,3 @@
-<object data="https://github.com/aitzaz70/ChatConnect-Pro/blob/main/Major%20Cities%20For%20Admission%20Test.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
 ## ChatConnect-Pro Documentation
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
