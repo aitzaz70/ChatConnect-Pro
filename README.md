@@ -62,7 +62,7 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
     
 > While Python Installation:  
 > Add python to path, Use Admin Privileges > Disable Path Limit at the end  
-> Make sure to Restart your PC
+> Make sure to Restart your PC after installation of above softwares
 
 ## :cloud: Installation
 
