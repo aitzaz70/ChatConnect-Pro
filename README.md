@@ -3,7 +3,7 @@
 
 
 💲Donation: Bitcoin (Binance🪙)
-```py
+```php
 195XfKjaHkBedXptLk2iRAL3Qip2YHqzHZ
 ```
 
