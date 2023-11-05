@@ -1,3 +1,6 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=aitzaz70)
+
+
 ## ChatConnect-Pro Documentation
 
 ### Introduction
