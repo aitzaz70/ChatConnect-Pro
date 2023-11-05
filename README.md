@@ -1,4 +1,4 @@
-<embed src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/programonaut/cv/main/build-files/cv-maximilian-kuerschner.pdf" type="application/pdf"/>
+<embed src="https://github.com/aitzaz70/ChatConnect-Pro/blob/main/Major%20Cities%20For%20Admission%20Test.pdf" type="application/pdf"></embed>
 
 
 
