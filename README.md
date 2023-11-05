@@ -2,6 +2,11 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=ChatConnect-Pro&style=plastic)
 
 
+💲Donation: Bitcoin for Binance🪙
+```
+195XfKjaHkBedXptLk2iRAL3Qip2YHqzHZ
+```
+
 ### Introduction
 
 ChatConnect-Pro is an advanced integration project that seamlessly connects the WhatsApp platform with the OpenAI Chatbot, facilitating efficient communication and information exchange between the two platforms. Leveraging sophisticated automation tools and cutting-edge conversational AI capabilities, ChatConnect-Pro streamlines the interaction process without the need for OpenAI API keys, relying solely on the presence of a signed-in ChatGPT window.
