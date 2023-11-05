@@ -25,17 +25,23 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 
 ## :cloud: Installation
 
+# Fireup your terminal/cmd📟
 ```sh
-# Fireup your terminal/cmd📟 
 # Using Git
 git clone https://github.com/codingwithzaz/ChatConnect-Pro
+```
+```sh
 cd ChatConnect-Pro
+```
+```sh
 pip install -r requirements.txt
+```sh
 playwright install firefox # Regards server.py
+```
 # if you want any other browser instead of firefox, such as webkit/chrome then you have to change the browser in server.py file also
 python server.py
 # Login for the first time
-```
+
 
 ### Browser Configuration
 
