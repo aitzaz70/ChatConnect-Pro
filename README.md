@@ -113,6 +113,7 @@ set CGO_ENABLED=1
 ```go
 go run main.go
 ```
+> First time it will take 5-10 to run completely!
 
 ### 🌐 Browser Configuration
 
