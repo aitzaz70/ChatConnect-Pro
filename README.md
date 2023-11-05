@@ -103,7 +103,6 @@ go run main.go
 Run the following command in the same terminal/cmd
 ```
 set CGO_ENABLED=1
-
 ```
 
 
