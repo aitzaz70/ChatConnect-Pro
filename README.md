@@ -27,10 +27,31 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 :accessibility: Required Softwares
 | Language | Description              | Version | Download Link |
 |----------|--------------------------|----------------|---------------|
-| Git      | Version control system   | 2.33.1         | [Download](https://www.git-scm.com/downloads) |
-| Python   | General-purpose language | 3.10.0         | [Download](https://www.python.org/downloads) |
-| Go       | Open-source programming language | 1.17.2  | [Download](https://golang.org/dl/) |
-| Tdm-gcc  | GCC for Windows | 10.3.0 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
+| Git      | Version control system   | 2.42.1         | [Download](https://www.git-scm.com/downloads) |
+| Python   | Programming language | 3.11.2         | [Download](https://www.python.org/downloads) |
+| Go       | Programming language | 1.21.3  | [Download](https://golang.org/dl/) |
+| Tdm-gcc  | MinGW-w64 based GCC for Windows | 10.3.0.2 | [Download](https://jmeubank.github.io/tdm-gcc/download/) |
+
+- **Git**
+  - *Description*: Version control system
+  - *Version*: 2.42.1
+  - *Download Link*: [Download Git](https://www.git-scm.com/downloads)
+
+- **Python**
+  - *Description*: Programming language
+  - *Version*: 3.11.2
+  - *Download Link*: [Download Python](https://www.python.org/downloads)
+
+- **Go**
+  - *Description*: Programming language
+  - *Version*: 1.21.3
+  - *Download Link*: [Download Go](https://golang.org/dl/)
+
+- **Tdm-gcc**
+  - *Description*: MinGW-w64 based GCC for Windows
+  - *Version*: 10.3.0.2
+  - *Download Link*: [Download Tdm-gcc](https://jmeubank.github.io/tdm-gcc/download/)
+
 
 
 ```py
