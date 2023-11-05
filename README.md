@@ -99,6 +99,7 @@ go run main.go
 > main.main()
 >        C:/Users/vmwar/ChatConnect-Pro/main.go:74 +0x46e
 > exit status 2
+
 Run the following command in the same terminal/cmd
 ```
 set CGO_ENABLED=1
