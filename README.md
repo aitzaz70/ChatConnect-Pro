@@ -96,9 +96,8 @@ go run main.go
 ```
 > It will automatically install the required go packages
 
-> if you get the following error:
+if you get the following error:
 > panic: failed to upgrade database: Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub
-
 > goroutine 1 [running]:
 > main.main()
 >        C:/Users/vmwar/ChatConnect-Pro/main.go:74 +0x46e
