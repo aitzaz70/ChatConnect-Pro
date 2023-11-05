@@ -24,8 +24,9 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 - **SQLite:** Configure the SQLite database connector to support data storage and management within the project.
 
 ## :cloud: Pre-Installation
-## :accessibility: Requirements: Software
-```py
+:accessibility: Required Softwares
+
+```js
 Git
 Python
 Go
@@ -35,7 +36,7 @@ Tdm-gcc
 
 ## :cloud: Installation
 
-# Fireup your terminal/cmd📟
+Fireup your terminal/cmd📟
 ```sh
 # Using Git
 git clone https://github.com/codingwithzaz/ChatConnect-Pro
