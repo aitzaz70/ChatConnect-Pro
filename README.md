@@ -26,7 +26,7 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 ## :cloud: Installation
 
 # Fireup your terminal/cmd📟
-```py
+```js
 # Using Git
 git clone https://github.com/codingwithzaz/ChatConnect-Pro
 ```
