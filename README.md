@@ -18,6 +18,16 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 - **Whatsmeow:** Install the Whatsmeow library, which acts as a bridge for communication with the WhatsApp platform.
 - **SQLite:** Configure the SQLite database connector to support data storage and management within the project.
 
+## :cloud: Installation
+
+```sh
+# Using npm
+npm install --save github-api-emojis
+
+# Using yarn
+yarn add github-api-emojis
+```
+
 ### Browser Configuration
 
 To configure the browser settings for the ChatConnect-Pro project, follow these instructions:
