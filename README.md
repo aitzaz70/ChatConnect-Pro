@@ -1,3 +1,5 @@
+<html>
+  <head>Heading coming here</head>
 <div style="background-color: #f9f9f9; border: 1px solid #e6e6e6; border-radius: 5px; padding: 20px;">
   <h2 style="color: #333333;">ChatConnect-Pro</h2>
   <p style="color: #555555;">
@@ -219,3 +221,4 @@ Ensure that the `server.py` script is already running on ports 5001 and 5002 bef
 
 </p>
 </div>
+</html>
