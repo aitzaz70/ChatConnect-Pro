@@ -1,4 +1,4 @@
-<embed src="https://github.com/aitzaz70/ChatConnect-Pro/blob/main/Major%20Cities%20For%20Admission%20Test.pdf" width="100%" height="850px"/>
+<embed src="https://github.com/aitzaz70/ChatConnect-Pro/blob/main/Major%20Cities%20For%20Admission%20Test.pdf" type="application/pdf" width="100%" height="850px"/>
 
 
 
