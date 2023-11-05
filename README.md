@@ -3,7 +3,7 @@
 
 
 💲Donation: Bitcoin (Binance🪙)
-```php
+```py
 195XfKjaHkBedXptLk2iRAL3Qip2YHqzHZ
 ```
 
@@ -26,7 +26,7 @@ Before deploying the ChatConnect-Pro project, ensure the following prerequisites
 ## :cloud: Pre-Installation
 :accessibility: Required Softwares
 
-```js
+```py
 Git
 Python
 Go
